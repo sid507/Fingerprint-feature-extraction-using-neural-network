@@ -3,7 +3,7 @@ Minutiae i.e. feature used for fingerprint recognition. In this we are finding f
 
 The neural network is trained to give the position of Ridge bifurcations in the fingerprint image.
 
-![image]
+![image](https://github.com/sid507/Fingerprint-feature-extraction-using-neural-network/blob/main/images/bifurcation.PNG?raw=true)
 
 After the image is binarized and thinned, the part of the image where bifurcations are present is as shown below.
 
