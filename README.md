@@ -13,4 +13,4 @@ We have used the above data for training the network.
 
 The architecture is as shown below
 
-![image]()
+![image](https://github.com/sid507/Fingerprint-feature-extraction-using-neural-network/blob/master/images/nn.PNG?raw=true)
