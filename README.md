@@ -5,7 +5,7 @@ The neural network is trained to give the position of Ridge bifurcations in the 
 
 ![image](https://github.com/sid507/Fingerprint-feature-extraction-using-neural-network/blob/main/images/bifurcation.PNG?raw=true)
 
-After the image is binarized and thinned, the part of the image where bifurcations are present is as shown below.
+After the image is binarized and thinned, the part of the image where bifurcations are present is as shown below (first two columns are bifurcations).
 
 ![image](https://github.com/sid507/Fingerprint-feature-extraction-using-neural-network/blob/main/images/train_data.PNG?raw=true)
 
