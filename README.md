@@ -10,3 +10,7 @@ After the image is binarized and thinned, the part of the image where bifurcatio
 ![image](https://github.com/sid507/Fingerprint-feature-extraction-using-neural-network/blob/main/images/train_data.PNG?raw=true)
 
 We have used the above data for training the network.
+
+The architecture is as shown below
+
+![image](https://github.com/sid507/Fingerprint-feature-extraction-using-neural-network/blob/master/images/nn.PNG?raw=true)
