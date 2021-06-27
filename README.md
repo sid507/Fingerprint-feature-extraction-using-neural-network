@@ -10,3 +10,10 @@ After the image is binarized and thinned, the part of the image where bifurcatio
 ![image](https://github.com/sid507/Fingerprint-feature-extraction-using-neural-network/blob/main/images/train_data.PNG?raw=true)
 
 We have used the above data for training the network.
+
+The pixels where minutiae were detected are marked with a circle using opencv.
+The paper suggests to eliminate the minutiae which are very close to each other.
+
+The output is as shown below.
+
+<img src="https://github.com/sid507/Fingerprint-feature-extraction-using-neural-network/blob/main/images/result.png" />
